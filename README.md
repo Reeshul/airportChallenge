@@ -11,7 +11,7 @@ The planes can land and take off provided that the weather is sunny. Occasionall
 
 ## Technologies used
 
-JavaScript. Tested using RSpec.
+JavaScript. Tested using Jasmine.
 
 ### User Story 1
 
